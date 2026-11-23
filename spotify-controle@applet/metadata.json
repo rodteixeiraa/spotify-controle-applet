@@ -1,1 +1,7 @@
-
+{
+  "uuid": "spotify-controle@applet",
+  "name": "Spotify Controle",
+  "description": "Veja a música atual e controle o Spotify pelo painel.",
+  "icon": "audio-x-generic-symbolic",
+  "max-instances": 1
+}

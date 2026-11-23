@@ -1,0 +1,28 @@
+.spotify-visual {
+    padding: 20px 50px;
+    border-radius: 12px;
+    background-color: #173126;
+}
+.spotify-disc {
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    background-gradient-direction: vertical;
+    background-gradient-start: #343434;
+    background-gradient-end: #090909;
+    border: 5px solid #181818;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+}
+.spotify-cover {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    background-color: #375d48;
+    color: white;
+    border: 3px solid #222222;
+}
+.spotify-panel {
+    border-radius: 8px;
+    padding-left: 5px;
+    padding-right: 8px;
+}
